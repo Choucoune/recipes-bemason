@@ -4,3 +4,4 @@ cumin
 garlic
 onion
 cilantro
+garlic powder

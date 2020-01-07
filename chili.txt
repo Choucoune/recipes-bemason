@@ -1,0 +1,10 @@
+beans
+tomatoes
+chili powder
+cumin
+garlic 
+salt
+pepper
+beef
+jalopenos
+onions
